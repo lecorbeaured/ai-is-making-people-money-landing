@@ -5,6 +5,34 @@
     {
       "source": "/7-days",
       "destination": "/7-days.html"
+    },
+    {
+      "source": "/blog",
+      "destination": "/blog/index.html"
+    },
+    {
+      "source": "/blog/best-ai-books-for-beginners",
+      "destination": "/blog/best-ai-books-for-beginners.html"
+    },
+    {
+      "source": "/blog/best-ai-books-for-business",
+      "destination": "/blog/best-ai-books-for-business.html"
+    },
+    {
+      "source": "/blog/can-you-sell-ai-books-on-amazon",
+      "destination": "/blog/can-you-sell-ai-books-on-amazon.html"
+    },
+    {
+      "source": "/blog/do-ai-books-make-money",
+      "destination": "/blog/do-ai-books-make-money.html"
+    },
+    {
+      "source": "/blog/how-to-create-and-sell-an-ai-book",
+      "destination": "/blog/how-to-create-and-sell-an-ai-book.html"
+    },
+    {
+      "source": "/blog/free-ai-resources-2026",
+      "destination": "/blog/free-ai-resources-2026.html"
     }
   ]
 }
